@@ -1,0 +1,21 @@
+{
+  "name": "zip.js",
+  "version": "1.0.0",
+  "homepage": "http://gildas-lormeau.github.io/zip.js/",
+  "description": "A JavaScript library to zip and unzip files",
+  "main": "WebContent/zip.js",
+  "keywords": [
+    "zip"
+  ],
+  "authors": [
+    "gildas-lormeau"
+  ],
+  "license": "BSD",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
