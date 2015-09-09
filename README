@@ -1,3 +1,5 @@
+Note: This repository will stay an exact copy of the original repository at all times. The only difference will be JS ditribution config files (e.g. `bower.json`) and release tags.
+
 zip.js is an open-source library (BSD license) for zipping and unzipping files.
 
 See here for more info:
